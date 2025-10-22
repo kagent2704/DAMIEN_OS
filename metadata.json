@@ -1,0 +1,7 @@
+{
+  "name": "DAMIEN_OS",
+  "description": "An intelligent desktop assistant that understands voice and text commands to execute safe, real-time actions. It features conversational AI, file analysis, and a complete local audit and analytics dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
